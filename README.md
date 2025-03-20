@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kylemucha
+- 👋 Hello, I’m @kylemucha
 - 👀 I’m interested in Full-Stack Development, Web Development, JDM cars and Sacramento Kings Basketball
 - 🌱 I’m currently a fourth year Computer Science student graduating in Spring 2025
 - 💞️ I’m looking to improve my code skills by building projects and land my first SWE Role
