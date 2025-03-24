@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Kyle!
 - 👀 I’m interested in Full-Stack Development, Web Development, JDM cars and Sacramento Kings Basketball
 - 🌱 I’m currently a fourth year Computer Science student graduating in Spring 2025
-- 💞️ I’m looking to improve my code skills by building projects and land my first SWE Role
+- 💞️ Continuously improving my coding skills through projects and practice, in hopes of my first SWE role
 - 📫 You can reach me by email: kylemuchaswe@gmail.com || Linkedin: https://www.linkedin.com/in/kylemuchaa/
 
 <!---
