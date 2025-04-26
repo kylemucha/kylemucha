@@ -1,4 +1,4 @@
-- 👋 I'm Kyle!
+- 👋 Hello, I'm Kyle!
 - 👀 Interested in Full-Stack Development, Web Development, JDM cars and Sacramento Kings Basketball
 - 🌱 Currently a fourth year Computer Science student graduating in Spring 2025!
 - 🧑🏽‍💻 Continuously improving my coding skills through projects and practice, in hopes of my first SWE role
