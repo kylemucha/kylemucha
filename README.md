@@ -1,8 +1,33 @@
-- 👋 Hello, I'm Kyle!
-- 👀 Interested in Full-Stack Development, Web Development, JDM cars, and Sacramento Kings Basketball!
-- 🌱 Currently a New Grad Computer Science Major seeking Job Opportunities!
-- 🧑🏽‍💻 Continuously improving my coding skills through projects and practice, in hopes of my first SWE role
-- 📫 You can reach me by email: kylemuchaswe@gmail.com || Linkedin: https://www.linkedin.com/in/kylemuchaa/
+<h1 align="center">👋 Hey, I’m Kyle</h1>
+<p align="center">Full-Stack Developer • CS Graduate • Always Building</p>
+
+---
+
+### 🧠 About Me  
+- Turning ideas into real, deployed software  
+- Love clean UI, scalable backend architecture, and DevOps automation  
+- Currently building **full-stack apps** + leveling up my **React & C#** skills  
+
+### 🛠️ Tech
+`React` `JavaScript` `C#` `ASP.NET Core`  
+`SQL Server` `Docker` `Azure` `Python`  
+
+### 🗂 Projects  
+- **Kelle Solutions** — Real-estate SaaS platform (Azure + Docker + SQL)  
+- **FitPathAI** — Personalized fitness recommender w/ ML models  
+- **Snakey Snake** — Android basketball-snake game  
+
+### 🌱 Learning  
+- DSA / LeetCode  
+- Cloud + DevOps fundamentals  
+- Cleaner architecture patterns  
+
+---
+
+### 🔗 Links  
+**LinkedIn:** https://linkedin.com/in/kylemuchaa  
+**GitHub:** https://github.com/kylemucha
+
 
 <!---
 kylemucha/kylemucha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
