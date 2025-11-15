@@ -1,6 +1,6 @@
 # Hi, I’m Kyle Mucha !
 
-I’m a Developer, IT worker, and recent Computer Science graduate who loves building clean, practical, and user-focused applications.  
+I’m a Developer, IT Specialist, and recent Computer Science graduate who loves building clean, practical, and user-focused applications.  
 Currently leveling up my React and Full-Stack Developer skills while working on real-world projects.
 
 ### 🔧 Tech Stack
