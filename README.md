@@ -19,7 +19,6 @@ Currently leveling up my React, C#, SQL, and cloud engineering skills while work
 - Improving data structures & algorithms  
 - Learning more about DevOps + cloud engineering  
 
-### 📫 Let’s Connect
-- **Portfolio:** _coming soon_  
-- **LinkedIn:** https://linkedin.com/in/kylemuchaa  
-- **GitHub:** https://github.com/kylemucha
+### 📫 Let’s Connect  
+- **E-Mail:** kylemuchaswe@gmail.com
+- **LinkedIn:** https://linkedin.com/in/kylemuchaa
