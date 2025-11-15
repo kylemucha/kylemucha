@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kyle Mucha
+# 😄 Hi, I’m Kyle Mucha !
 
 I’m a Full-Stack Developer and recent Computer Science graduate who loves building clean, practical, and user-focused applications.  
 Currently leveling up my React, C#, SQL, and cloud engineering skills while working on real-world projects.
