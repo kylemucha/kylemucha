@@ -1,35 +1,25 @@
-<h1 align="center">👋 Hey, I’m Kyle</h1>
-<p align="center">Full-Stack Developer • CS Graduate • Always Building</p>
+# 👋 Hi, I’m Kyle Mucha
 
----
+I’m a Full-Stack Developer and recent Computer Science graduate who loves building clean, practical, and user-focused applications.  
+Currently leveling up my React, C#, SQL, and cloud engineering skills while working on real-world projects.
 
-### 🧠 About Me  
-- Turning ideas into real, deployed software  
-- Love clean UI, scalable backend architecture, and DevOps automation  
-- Currently building **full-stack apps** + leveling up my **React & C#** skills  
+### 🔧 Tech Stack
+- **Frontend:** React, JavaScript, HTML/CSS  
+- **Backend:** C#, ASP.NET Core, SQL Server  
+- **DevOps / Tools:** Docker, Azure, GitHub Actions  
+- **Other:** Python, Streamlit, Kaggle ML workflows  
 
-### 🛠️ Tech
-`React` `JavaScript` `C#` `ASP.NET Core`  
-`SQL Server` `Docker` `Azure` `Python`  
+### 🚀 Notable Projects
+- **Kelle Solutions** — Real estate SaaS platform (ASP.NET Core + Azure)  
+- **FitPathAI** — AI-powered fitness & nutrition recommender (Python + Streamlit)  
+- **Snakey Snake** — Basketball-themed Android game  
 
-### 🗂 Projects  
-- **Kelle Solutions** — Real-estate SaaS platform (Azure + Docker + SQL)  
-- **FitPathAI** — Personalized fitness recommender w/ ML models  
-- **Snakey Snake** — Android basketball-snake game  
+### 🎯 Currently Working On
+- Building stronger full-stack projects  
+- Improving data structures & algorithms  
+- Learning more about DevOps + cloud engineering  
 
-### 🌱 Learning  
-- DSA / LeetCode  
-- Cloud + DevOps fundamentals  
-- Cleaner architecture patterns  
-
----
-
-### 🔗 Links  
-**LinkedIn:** https://linkedin.com/in/kylemuchaa  
-**GitHub:** https://github.com/kylemucha
-
-
-<!---
-kylemucha/kylemucha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Let’s Connect
+- **Portfolio:** _coming soon_  
+- **LinkedIn:** https://linkedin.com/in/kylemuchaa  
+- **GitHub:** https://github.com/kylemucha
