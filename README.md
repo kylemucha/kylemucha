@@ -1,4 +1,4 @@
-# Hi, I’m Kyle Mucha ! ☻
+# ☻ Hi, I’m Kyle Mucha ! 
 
 I’m a Developer, IT Specialist, and recent Computer Science graduate who loves building clean, practical, and user-focused applications.  
 
