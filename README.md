@@ -18,7 +18,7 @@ Currently leveling up my React and Full-Stack Developer skills and working on re
 ### 🎯 Currently Working On
 - Building stronger full-stack projects with React
 - Improving data structures & algorithms with Leetcode
-- Learning more about DevOps + cloud engineering
+- Learning more about Web Development and good practices
 
 ### 📫 Let’s Connect  
 - **E-Mail:** kylemuchaswe@gmail.com
