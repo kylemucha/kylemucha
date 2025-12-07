@@ -1,4 +1,4 @@
-# ☻ Hi, I’m Kyle Mucha ! 
+# ☻ Hi, I’m Kyle Mucha! 
 
 I’m a Developer, IT Specialist, and recent Computer Science graduate who loves building clean, practical, and user-focused applications.  
 
@@ -12,7 +12,7 @@ Currently leveling up my React and Full-Stack Developer skills and working on re
 
 ### ✎ Notable Projects
 - **Kelle Solutions** — Real estate SaaS platform (ASP.NET Core + Azure)
-- **My Travel Journal** — A interactive, static React web page utilizing props
+- **My Travel Journal** — An interactive, static React web page utilizing props
 - **FitPathAI** — AI-powered fitness & nutrition recommender (Python + Streamlit)    
 
 ### ⌨ Currently Working On
@@ -20,6 +20,6 @@ Currently leveling up my React and Full-Stack Developer skills and working on re
 - Improving data structures & algorithms with Leetcode
 - Learning more about Web Development and good practices
 
-### ✉︎ Let’s Connect  
+### ✉︎ Let’s Connect!
 - **E-Mail:** kylemuchaswe@gmail.com
 - **LinkedIn:** https://linkedin.com/in/kylemuchaa
