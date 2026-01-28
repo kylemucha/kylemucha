@@ -4,7 +4,7 @@ I’m a Developer, IT Specialist, and recent Computer Science graduate who loves
 
 Currently leveling up my React and Full-Stack Developer skills and working on real-world projects.
 
-### ⚒ Tech Stack
+### ⚒ Tech I am Working With
 - **Frontend:** React, JavaScript, HTML/CSS  
 - **Backend:** C#, ASP.NET Core, SQL Server  
 - **DevOps / Tools:** Docker, Azure, GitHub Actions  
